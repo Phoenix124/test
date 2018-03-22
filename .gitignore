@@ -1,0 +1,7 @@
+
+.gitignore
+.idea
+testits.iml
+*.war
+*.jar
+target/
