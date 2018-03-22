@@ -5,3 +5,4 @@ testits.iml
 *.war
 *.jar
 target/
+Test.iml
