@@ -23,8 +23,8 @@ import java.util.*;
  */
 public class Main {
 
-    static final String fileSource = "C:\\Users\\Администратор\\IdeaProjects\\test\\src\\main\\resources\\n6\\source";
-    static final String fileWrite = "C:\\Users\\Администратор\\IdeaProjects\\test\\src\\main\\resources\\n6\\sorted";
+    static final String fileSource = "src/main/resources/n6/source";
+    static final String fileWrite = "src/main/resources/n6/sorted";
 
     public static void main(String[] args) throws IOException {
         printToFile();
